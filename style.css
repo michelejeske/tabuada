@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+body{
+    text-align: center;
+  background-image: url(https://media4.giphy.com/media/ekqOVFTA4ywOOkVpnv/giphy.gif?cid=ecf05e470xpbsi1foljsevtq6o4bd52tqzl90rjzn88u46xs&ep=v1_gifs_related&rid=giphy.gif&ct=g);
+    padding: 50px;
+}
+
+h3{
+background-color: #faebd7;
+}
+
+h2{
+    background-color: #8762b1;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+button{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 10px;
+}
+
+input{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 10px;
+}
+
+#container{
+    margin: 0 auto;
+}
+
+table{
+width: 100%;
+border-collapse: collapse;
+text-align: center;
+}
+
+th, td{
+    background-color: #8762b1;
+    padding: 8px;
+    border: 1px solid #130000;
+}
